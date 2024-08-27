@@ -21,6 +21,10 @@ O Projeto consite na composição de uma tabela que conta com capitais brasileir
 * Rio Branco
 * Rio de Janeiro
 
+### Resultado do Projeto
+
+![Resultado final do projeto]()
+
 ## Tecnologias
 * HTML5
 * CSS3
